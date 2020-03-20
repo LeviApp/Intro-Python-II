@@ -1,1 +1,1 @@
-web: python manage.py runserver
+web: python ./REFORM_IN_DUST_STORMS/manage.py runserver
